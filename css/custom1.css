@@ -1,0 +1,13 @@
+#fh5co-home{
+  background-image: url("../images/HeroJP.png") !important;
+}
+
+.sigs{
+  display: block;
+  align-items: center;
+}
+
+.sigs img{
+  max-width: 20%;
+  float: right;
+}
