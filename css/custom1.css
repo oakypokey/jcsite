@@ -8,6 +8,15 @@
 }
 
 .sigs img{
-  max-width: 20%;
+  max-width: 40%;
   float: right;
+}
+
+.contactus span{
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  width: 50vw;
+  height: 12vh;
+  font-size: 7vh;
 }
